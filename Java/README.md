@@ -20,7 +20,7 @@ run
 
     sudo gradle  -q text --args 30 > {Path}/texttests/ThirtyDays/stdout.gr
 
-Where Path is the relative path to the texttests folder
+Where Path is the absolute path to the texttests folder
 At each run, the stdout.gr will be updated
 
 ### test cases:
